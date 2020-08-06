@@ -10,4 +10,6 @@ Enter your mail and password for GeoInsights in 'credentials.py'.
 Optionally add the absolute path to your favorite download directory.
 Otherwise scraper will store the data in a directory at the location of 'main.py'.
 
-Runs a bit slow, maybe I will improve the performance in the future (probably not).
+Enter the download link to the maps in requests.txt. One link per line, see example.
+
+Runs a bit slowly, maybe I will improve the performance in the future (probably not).
